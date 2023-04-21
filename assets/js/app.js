@@ -146,7 +146,7 @@ export const updateWeather = function (lat, lon) {
                   class="weather-icon"
                 />
               </div>
-              <p class="body-3">${description}</p>
+              
               <ul class="meta-list">
                 <li class="meta-item">
                   <span class="m-icon">calendar_today</span>
