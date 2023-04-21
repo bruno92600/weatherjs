@@ -388,7 +388,7 @@ export const updateWeather = function (lat, lon) {
                     <p class="body-3">${module.getTime(
                       dateTimeUnix,
                       timezone
-                    )}</p>
+                    )}0</p>
                     <img
                       src="./assets/images/weather_icons/direction.png"
                       width="48"
